@@ -1,0 +1,34 @@
+
+Web Service URL - http://servername/ReportServer
+
+username and Password - Wencoservices or SA
+
+
+Web Portal URL-  http://servername/Reports
+
+username and Password - Wencoservices or SA
+
+-----------------------------------------------------------------------------------------------------------------------------------
+15/06/2020
+
+1) How to Create User Login for Wenco Reporting to access the Reports in Web
+
+ a) Open Wenco User Manager --> Create New Login with Roles -> For Example. Girish (Dispatcher or Read Only)
+
+ b) Open Wenco Reporting in Web --> Enter Username -Girish and left Password as Empty
+ 
+ c) Click the Login button and create New password and Confirm Password and after that login and check.
+
+
+
+==========================================================================================
+05/12/2020
+
+Create User Account for Windows 10 PC to run MineVision and FleetControl,
+
+1) Go to Contro Panel=>   Add Windows Features On or Off
+                                           => Turn On Microsoft .Net Framework 3.5 Features.
+
+2) Go to Local User Account => Enable the Administrator Account and Change the Administrator Acoount Name to any Wenco User Account name.
+
+============================================================================================
